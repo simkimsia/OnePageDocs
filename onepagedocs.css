@@ -16,4 +16,19 @@ a.toc_title, a.toc_title:visited {
   display: block;
   font-weight: bold;
   margin-top: 15px;
+  text-decoration: underline;
 }
+ul.toc_section {
+  list-style-type: none;  
+}
+
+.content {
+  position: relative;
+  width: 550px;
+  margin: 40px 0 50px 100px;
+}
+p {
+  margin: 25px 0;
+  width: 550px;
+}
+
